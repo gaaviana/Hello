@@ -1,7 +1,6 @@
 
 // Importa a classe Scanner, que permite ler dados digitados pelo usuário
 import java.util.Scanner;
-
 public class App {
 
     // Constante com a mensagem inicial (final = não pode mudar depois de definida)
