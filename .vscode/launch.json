@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "java_c077c726"
+        },
+        {
+            "type": "java",
             "name": "OperadoresAritmeticos",
             "request": "launch",
             "mainClass": "OperadoresAritmeticos",
